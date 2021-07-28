@@ -24,7 +24,7 @@
   [![Gmail Badge](https://img.shields.io/badge/-aleturial8%40gmail.com-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white&)](mailto:aleturial8@gmail.com)
 
  
-  <!--![Snake animation](https://github.com/alexandreturial/blob/output/github-contribution-grid-snake.svg)-->
+  ![Snake animation](https://github.com/alexandreturial/alexandreturial/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
